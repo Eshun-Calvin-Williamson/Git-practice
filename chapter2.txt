@@ -1,0 +1,1 @@
+was able to commit my text checked with "git log" to know how my commit went through.
