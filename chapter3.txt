@@ -1,0 +1,1 @@
+Dealing with modification when an error is uncounted and checking out of my repository to fix it 
