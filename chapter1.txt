@@ -1,2 +1,3 @@
 welcome to the git tutorial model
 well done good work done.
+Just trying to set my commit right.
